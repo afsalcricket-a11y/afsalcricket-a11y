@@ -89,6 +89,7 @@ I build practical, real-world full-stack web applications and scalable backend A
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsalcricket-a11y&bg_color=181818&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true" alt="Afsal's Contribution Graph" />
 </p>
