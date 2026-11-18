@@ -74,13 +74,25 @@ I build practical, real-world full-stack web applications and scalable backend A
 
 ---
 
-### 📈 GitHub stats
+### 📈 GitHub & Coding Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsalcricket-a11y&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalcricket-a11y&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afsalcricket-a11y&show_icons=true&theme=dark&bg_color=181818&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalcricket-a11y&layout=compact&theme=dark&bg_color=181818&title_color=ff7b00&text_color=ffffff&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=afsalcricket-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afsalcricket-a11y&theme=dark&background=181818&ring=ff7b00&fire=ff7b00&currStreakLabel=ff7b00&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsalcricket-a11y&bg_color=181818&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true" alt="Afsal's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://hits.dwyl.com/afsalcricket-a11y.svg?style=flat-square&color=44cc11" alt="Profile Hits" />
 </p>
