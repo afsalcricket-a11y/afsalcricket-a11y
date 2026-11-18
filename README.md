@@ -22,7 +22,7 @@ I build practical, real-world full-stack web applications and scalable backend A
 | :--- | :--- | :--- |
 | **LifeHelp** *(Creator & Developer)* | React, Vite, Tailwind CSS, Supabase (Auth, RLS, Realtime), Leaflet GPS | [Live App](https://afsalcricket-a11y.github.io/Lifehelp-app-/) — Bilingual emergency, blood donor & community help platform |
 | **IPL Auction 27** *(Creator & Developer)* | HTML5, JavaScript, Supabase PostgreSQL & Realtime | [Live App](https://afsalcricket-a11y.github.io/IPL-auction-27/) — 14-set multiplayer cricket auction with RTM & trade mechanics |
-| **TaskFlow.API & SeatSync.API** *(Backend Dev)* | C#, ASP.NET Core Web API, Entity Framework Core, Swagger | RESTful task management & real-time ticket booking backend services |
+|  **SeatSync.API** *(Backend Dev)* | C#, ASP.NET Core Web API, Entity Framework Core |  real-time ticket booking backend services |
 | **Operations Suite** *(Creator & Developer)* | JavaScript, Web Storage / Backend Integration, GitHub Pages | [CreditBook](https://afsalcricket-a11y.github.io/CreditBook/) · [PG Hostel](https://afsalcricket-a11y.github.io/Pg-hostel-/) · [Daily Delivery Manager](https://afsalcricket-a11y.github.io/daily-delivery-manager/) |
 
 🎓 **B.Sc. Computer Science**, PSG College of Arts & Science, Coimbatore *(Current)*  
