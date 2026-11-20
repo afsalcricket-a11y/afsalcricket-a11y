@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohammed Afsal S 👋
+#  I'm Mohammed Afsal S 
 
 **B.Sc. Computer Science Undergraduate • PSG College of Arts & Science, Coimbatore**  
 *Full-Stack & Backend Developer | Real-Time Web Systems | Concurrency & API Engineering*
